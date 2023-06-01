@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hot Sellers_product-image-photo</name>
+   <tag></tag>
+   <elementGuidId>9dc82f9d-63da-4797-a81d-6440c430cd19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[2]/div[3]/div/div/ol/li/div/a/span/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-item-info > a.product-item-photo > span.product-image-container > span.product-image-wrapper > img.product-image-photo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>94c6eb0a-b2a4-4786-89ee-fe34623f9806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-image-photo</value>
+      <webElementGuid>407ffa8a-2fdd-4e82-bd7a-5ca993271f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/7c4c1ed835fbbf2269f24539582c6d44/w/s/ws12-orange_main_2.jpg</value>
+      <webElementGuid>a0a77e10-0fe5-4abf-b9d0-25b45884ced3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max-width</name>
+      <type>Main</type>
+      <value>240</value>
+      <webElementGuid>f6595f46-b5c3-4273-8379-fe824f863631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>max-height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>7140eb01-365b-47b5-9c6d-0dbb620aea52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Radiant Tee</value>
+      <webElementGuid>c091c774-f687-45c3-801b-3f140bade08f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;widget block block-static-block&quot;]/div[@class=&quot;block widget block-products-list grid&quot;]/div[@class=&quot;block-content&quot;]/div[@class=&quot;products-grid grid&quot;]/ol[@class=&quot;product-items widget-product-grid&quot;]/li[@class=&quot;product-item&quot;]/div[@class=&quot;product-item-info&quot;]/a[@class=&quot;product-item-photo&quot;]/span[@class=&quot;product-image-container&quot;]/span[@class=&quot;product-image-wrapper&quot;]/img[@class=&quot;product-image-photo&quot;]</value>
+      <webElementGuid>f0897c94-5fc2-451e-b868-94a57618a580</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[2]/div[3]/div/div/ol/li/div/a/span/span/img</value>
+      <webElementGuid>72f2ca45-b344-48f5-bd4c-0e3d7cfcdebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Radiant Tee'])[2]</value>
+      <webElementGuid>ccb59eb5-d5bc-487a-ab30-f77f265ef30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ol/li/div/a/span/span/img</value>
+      <webElementGuid>4e42a5c9-16aa-4d53-99a3-3c1ad3881428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/7c4c1ed835fbbf2269f24539582c6d44/w/s/ws12-orange_main_2.jpg' and @alt = 'Radiant Tee']</value>
+      <webElementGuid>4a02414e-a144-43c5-8b7e-7b314339fb58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
