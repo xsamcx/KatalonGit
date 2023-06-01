@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>602af25c-ccb2-4488-b05f-ee38a56494ac</webElementGuid>
+      <webElementGuid>1f1a6f2d-075a-469b-987b-1ceb5810531f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>action showcart</value>
-      <webElementGuid>ecc85842-940f-4cd2-a411-5cd03931e6a1</webElementGuid>
+      <webElementGuid>ed762117-231c-4d33-9ae3-e1fd2b2c5795</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://magento.softwaretestingboard.com/checkout/cart/</value>
-      <webElementGuid>9a2f2878-959b-4eac-80c1-a1e33db2d416</webElementGuid>
+      <webElementGuid>4121578e-7ff6-422e-ab08-b5a8d1d60534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-bind</name>
       <type>Main</type>
       <value>scope: 'minicart_content'</value>
-      <webElementGuid>21c9070f-cb5d-4860-abe6-e05fe8e2e011</webElementGuid>
+      <webElementGuid>0d1e2e6e-4397-48de-8f2e-e2613c19edf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@ My Cart
 
 
 </value>
-      <webElementGuid>c482afbc-fce7-400e-9c09-1c9f32c00903</webElementGuid>
+      <webElementGuid>48fb95fe-d115-46d9-bfd9-fd69dc1161a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;cms-home cms-index-index page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;minicart-wrapper&quot;]/a[@class=&quot;action showcart&quot;]</value>
-      <webElementGuid>1f3eb7d0-8605-4bca-902c-340dd341c5f0</webElementGuid>
+      <value>/html[1]/body[@class=&quot;cms-home cms-index-index page-layout-1column ajax-loading&quot;]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;header content&quot;]/div[@class=&quot;minicart-wrapper&quot;]/a[@class=&quot;action showcart&quot;]</value>
+      <webElementGuid>5467f602-89f4-4451-92ad-706df4bf62d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,15 +78,15 @@ My Cart
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[1]/following::a[2]</value>
-      <webElementGuid>e474e29c-36d3-4162-92ca-3a7fbdb5fb3b</webElementGuid>
+      <webElementGuid>2cc56f83-d514-4418-a9a8-8ffa0c85dc14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/following::a[2]</value>
-      <webElementGuid>c7d7b113-fe16-4c64-a9c7-e187ee1e3ff7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[2]/following::a[2]</value>
+      <webElementGuid>f7f1f4e3-3eb1-4ba8-b52c-635750f588c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@ My Cart
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[2]/preceding::a[1]</value>
-      <webElementGuid>a6509585-7b14-4dd5-ac81-e4c963320f68</webElementGuid>
+      <webElementGuid>08df09e8-ab1a-4dfd-8bb2-56401cdd4d8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@ My Cart
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/checkout/cart/')]</value>
-      <webElementGuid>efcb64f7-e30f-494f-873b-e91a1ea615b9</webElementGuid>
+      <webElementGuid>5ab75d46-a5a5-48d7-9d2c-bc5e2af73de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@ My Cart
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>c6fdcf10-010e-44a6-a66d-f283027160f5</webElementGuid>
+      <webElementGuid>1c299dac-2d4b-4970-9d07-ec01844aab25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@ My Cart
 
 
 ')]</value>
-      <webElementGuid>4301f87b-fccf-4f4e-8e01-91da25da218b</webElementGuid>
+      <webElementGuid>9c108a20-66f1-40f8-9599-82173771adbb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

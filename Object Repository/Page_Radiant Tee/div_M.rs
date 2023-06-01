@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a676b469-0582-4233-b166-c85cb9299663</webElementGuid>
+      <webElementGuid>d54f0f1f-50f9-46fa-bec5-2d4faaa4042d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swatch-option text</value>
-      <webElementGuid>1d869545-91cb-4849-8ead-93b0bd9098ba</webElementGuid>
+      <webElementGuid>b2bf4a28-2962-42e7-ab80-db8db88157d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>option-label-size-143-item-168</value>
-      <webElementGuid>f3142c8f-a465-4cfc-abc7-5c78d466c085</webElementGuid>
+      <webElementGuid>6ecba44d-4d86-4f70-89e5-0fc683051d85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>index</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>db28e03b-dd04-4e85-8a7b-bcdc5d034d5a</webElementGuid>
+      <webElementGuid>b10a3dd8-cd88-4c8b-b99f-96d8a2c88c05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9adfff8c-21aa-4073-8256-38aeffa56ec9</webElementGuid>
+      <webElementGuid>50cab49d-41b7-4dae-8c5c-9227718f9fe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>option-label-size-143</value>
-      <webElementGuid>71764913-952d-48f3-b72b-96914e78bede</webElementGuid>
+      <webElementGuid>8e59f37d-aab2-4a81-8b30-8fc0b195aa5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>fd79d475-85c0-4d13-9404-9fd4bec90159</webElementGuid>
+      <webElementGuid>253e65c8-c93a-45d8-a62a-45ff1bd47e8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>option-type</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>5e9a59d7-3ee1-4bf5-93fe-0f8e56085a38</webElementGuid>
+      <webElementGuid>ad4c6b2d-c2dc-4c58-8f96-235c821fc40c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>option-id</name>
       <type>Main</type>
       <value>168</value>
-      <webElementGuid>e0e1473d-ccdf-470a-a073-9e12947eae9f</webElementGuid>
+      <webElementGuid>1bb1d686-b3ce-4570-b193-109e784b4c10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>option-label</name>
       <type>Main</type>
       <value>M</value>
-      <webElementGuid>7d03daab-63fb-4bd2-a0f2-5ab5ee5fb163</webElementGuid>
+      <webElementGuid>36dbfb4f-e5e2-4d02-ae98-bae8d9896dc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>M</value>
-      <webElementGuid>cdacf143-4cb8-4bbd-aef6-1a79635f950f</webElementGuid>
+      <webElementGuid>c28addb7-b7a8-43fb-b24c-89752022d789</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>option-tooltip-value</name>
       <type>Main</type>
       <value>M</value>
-      <webElementGuid>6dae34e9-473d-4264-8afc-558cf1e85aee</webElementGuid>
+      <webElementGuid>333e86e9-2dc4-4ae2-8041-55edd8f18d5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>b82f0736-a7c2-489a-887a-ddd884e1e31a</webElementGuid>
+      <webElementGuid>a7ac245e-9bf2-44b5-88dc-da3d2b0946ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>thumb-width</name>
       <type>Main</type>
       <value>110</value>
-      <webElementGuid>a3716393-3879-4e2e-8c02-3d62db17e0b6</webElementGuid>
+      <webElementGuid>6dd515cd-d76f-4d7e-8d92-36282cb93515</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>thumb-height</name>
       <type>Main</type>
       <value>90</value>
-      <webElementGuid>8e6939dc-fd12-4656-a365-20bf5edb6866</webElementGuid>
+      <webElementGuid>61999f21-5de9-4014-9ee8-602094f8e60e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -142,7 +142,7 @@
       <name>text</name>
       <type>Main</type>
       <value>M</value>
-      <webElementGuid>5d6a9fb3-53cc-47a8-9066-4eff46413e25</webElementGuid>
+      <webElementGuid>c77e34d1-ddc4-4be1-8076-ba2e9d42d992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;option-label-size-143-item-168&quot;)</value>
-      <webElementGuid>3c93a7a9-bcff-4269-bde6-34bc3ee8c53d</webElementGuid>
+      <webElementGuid>76846177-8bf8-4e25-be2c-9e00b870803b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='option-label-size-143-item-168']</value>
-      <webElementGuid>5ac5c9fc-ee4c-41ec-bad0-820d21c68c4c</webElementGuid>
+      <webElementGuid>c52e1c7d-daeb-4c31-b6f4-735571ce6fb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,15 +166,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='product-options-wrapper']/div/div/div/div/div[3]</value>
-      <webElementGuid>61e3aecf-84f6-406e-80d5-6787ff4d3398</webElementGuid>
+      <webElementGuid>110de3ac-4ec6-4a78-9e25-346e7634b14b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/following::div[1]</value>
-      <webElementGuid>b31c1fe4-cb28-4286-acb1-90a33b9cda25</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::div[1]</value>
+      <webElementGuid>7b4d7aa1-add8-4992-9f57-1061610ba359</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='XS'])[1]/following::div[2]</value>
-      <webElementGuid>8a1ba724-496d-447f-982b-305b10fe208f</webElementGuid>
+      <webElementGuid>6fbada35-8f77-4268-8e60-ed6fbb12f251</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +190,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[1]/preceding::div[1]</value>
-      <webElementGuid>5b0f7e69-86a3-4811-be68-5d9d35ec7d49</webElementGuid>
+      <webElementGuid>1176e3c2-d01a-48f2-b8a7-5a7ae7b71d6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='XL'])[1]/preceding::div[2]</value>
-      <webElementGuid>2157813b-1b62-4bc5-9578-b801da32e7a7</webElementGuid>
+      <webElementGuid>196df460-4642-42bd-8477-fa3b221a9822</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +206,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='M']/parent::*</value>
-      <webElementGuid>7877d643-9cd3-491f-b88c-d2abacb2dd5c</webElementGuid>
+      <webElementGuid>98b4230c-cde4-4f54-a1c3-bf088454c2a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +214,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/div/div/div[3]</value>
-      <webElementGuid>c03b5d63-07aa-477a-b823-1ce27ed7ad86</webElementGuid>
+      <webElementGuid>107b1029-d7ff-4056-a063-147eb233827b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,6 +222,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'option-label-size-143-item-168' and (text() = 'M' or . = 'M')]</value>
-      <webElementGuid>b5cf6cb7-1fda-4ba4-8624-c61fc06e757e</webElementGuid>
+      <webElementGuid>cad33643-247a-4b0b-8791-33bd748b4031</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

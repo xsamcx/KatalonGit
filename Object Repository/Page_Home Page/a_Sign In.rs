@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f7e08be5-2745-4c8e-95a6-019695353423</webElementGuid>
+      <webElementGuid>e561066f-66be-44be-a8e0-27659fdd85fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/</value>
-      <webElementGuid>d8726cf6-7624-419b-9d5c-b3415d00cb45</webElementGuid>
+      <webElementGuid>9d3910a7-ec84-43d7-a0e5-bffe1ac4974b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <type>Main</type>
       <value>
 Sign In </value>
-      <webElementGuid>a1712301-2e3a-4b13-8c25-7b217c6d5f92</webElementGuid>
+      <webElementGuid>2a5f3200-50d2-4dd6-8cc5-720a03a7f1de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@ Sign In </value>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;cms-home cms-index-index page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;panel wrapper&quot;]/div[@class=&quot;panel header&quot;]/ul[@class=&quot;header links&quot;]/li[@class=&quot;authorization-link&quot;]/a[1]</value>
-      <webElementGuid>75a56b53-ce93-4b9a-800f-a088541258fd</webElementGuid>
+      <webElementGuid>9f7c1d5c-b590-43bd-a61c-85eebdd8aeaa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,15 +55,7 @@ Sign In </value>
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign In')]</value>
-      <webElementGuid>24c8f0d8-b8f5-45b8-a02e-25d3fab3c791</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default welcome msg!'])[1]/following::a[1]</value>
-      <webElementGuid>c89df227-9beb-46a0-a814-30af14388e74</webElementGuid>
+      <webElementGuid>dc05cf9d-a189-4947-b93c-965dba9f6923</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +63,7 @@ Sign In </value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content'])[1]/following::a[1]</value>
-      <webElementGuid>47552f89-adbd-455b-984a-7832bdf2144a</webElementGuid>
+      <webElementGuid>d1abb713-4bf9-4a56-b3a1-3d34410fd2a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +71,7 @@ Sign In </value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/preceding::a[1]</value>
-      <webElementGuid>1b2d76ea-dc2c-47f5-a40b-9b159c0d51f3</webElementGuid>
+      <webElementGuid>b1e6b4aa-b3c9-4ef0-935d-a263a86ab88a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +79,7 @@ Sign In </value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle Nav'])[1]/preceding::a[2]</value>
-      <webElementGuid>866f7251-9de3-46bf-bed3-e456964a3aa4</webElementGuid>
+      <webElementGuid>53d201f9-8bdb-47bf-81ba-adbb83ea52bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +87,7 @@ Sign In </value>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>6bd319be-386d-44c4-b646-481f71627054</webElementGuid>
+      <webElementGuid>ef3b4155-c0ee-4e37-be9c-297950f860cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +95,7 @@ Sign In </value>
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/')]</value>
-      <webElementGuid>d7185cd3-41d2-4b27-80a4-7e483df88c0e</webElementGuid>
+      <webElementGuid>bc382027-d61f-4c22-8522-d39ed48ef6dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +103,7 @@ Sign In </value>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>0316184c-a1bd-4177-b1d0-c21c85876001</webElementGuid>
+      <webElementGuid>39e497fd-c80f-496b-823e-638c3a3102f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,6 +113,6 @@ Sign In </value>
       <value>//a[@href = 'https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/' and (text() = '
 Sign In ' or . = '
 Sign In ')]</value>
-      <webElementGuid>db06722e-b92d-4f20-81ba-74dd82bea25d</webElementGuid>
+      <webElementGuid>8877c3e6-18b6-4e22-814e-bfc99f032edf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign In</name>
+   <name>button_Close</name>
    <tag></tag>
-   <elementGuidId>520f422d-26ef-4fa5-b20f-f422b1f7cb05</elementGuidId>
+   <elementGuidId>a90521bc-7ae6-4bcc-a330-44e23f53be9b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='send2']</value>
+         <value>//button[@id='btn-minicart-close']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#send2</value>
+         <value>#btn-minicart-close</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,132 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6add1e71-271a-48b4-a9bf-421d43fc8f4e</webElementGuid>
+      <webElementGuid>08d1286e-5144-446b-b740-e5c8ee5c1800</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>e070f8c3-b0ab-4b28-bda0-45c777e87e26</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>action login primary</value>
-      <webElementGuid>3b4f104e-4b53-473b-ad60-4a8dc5ff5b45</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>send</value>
-      <webElementGuid>6bb48617-b981-45d9-9223-0718f096830a</webElementGuid>
+      <value>button</value>
+      <webElementGuid>bf77653f-953f-4d01-86af-a81f012366a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>send2</value>
-      <webElementGuid>035c348e-bff5-4edd-8f9d-d026a3eaa302</webElementGuid>
+      <value>btn-minicart-close</value>
+      <webElementGuid>0360fa50-ae50-453f-844d-22b09f211d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action close</value>
+      <webElementGuid>04461258-4df3-4e2c-a7c9-a6cf553a75d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>14167394-94b5-4d42-bc15-e52535ed8ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>attr: { title: $t('Close') }</value>
+      <webElementGuid>9f886a0f-8978-41ee-8e3e-15baadc5ea16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>8046e9ab-0320-42ab-91b4-47172e52de98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>f1912998-74d8-4448-96b2-61539f3bc09e</webElementGuid>
+      <value>
+        Close
+    </value>
+      <webElementGuid>b4aa02b3-f096-4c80-b8d2-23ed52dd03f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;login-container&quot;]/div[@class=&quot;block block-customer-login&quot;]/div[@class=&quot;block-content&quot;]/form[@id=&quot;login-form&quot;]/fieldset[@class=&quot;fieldset login&quot;]/div[@class=&quot;actions-toolbar&quot;]/div[@class=&quot;primary&quot;]/button[@id=&quot;send2&quot;]</value>
-      <webElementGuid>8600226d-78f2-4d5a-aa7d-741af5b4a6b0</webElementGuid>
+      <value>id(&quot;btn-minicart-close&quot;)</value>
+      <webElementGuid>8d2ffb1f-b3eb-452b-95a9-cc9f66f68b3b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='send2']</value>
-      <webElementGuid>68e38f83-7778-482d-b0da-6e8d9c00a694</webElementGuid>
+      <value>//button[@id='btn-minicart-close']</value>
+      <webElementGuid>4dabf10f-72b4-4be3-bddf-c53018d8c8ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login-form']/fieldset/div[4]/div/button</value>
-      <webElementGuid>7788847e-8c15-4647-a4e8-a05cdbb03f8f</webElementGuid>
+      <value>//div[@id='minicart-content-wrapper']/div[2]/button</value>
+      <webElementGuid>395a31a1-56d6-4ca9-83bf-59247402f6c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>3adab1b1-91c6-407f-bd66-8a685f7e0588</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[2]/following::button[1]</value>
+      <webElementGuid>ac4a1037-2f82-4ceb-8966-19111041299d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>0515e08b-3c66-44dd-b8f8-e9d9db02916d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='items'])[1]/following::button[1]</value>
+      <webElementGuid>ca8d5875-adfd-4844-87b1-c087d15e6ce9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Your Password?'])[1]/preceding::button[1]</value>
-      <webElementGuid>d5793b73-a171-47b4-abf4-db43bf412c01</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items in Cart'])[1]/preceding::button[1]</value>
+      <webElementGuid>4b09d51a-833d-4e2d-938f-522a7dde30fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/button</value>
-      <webElementGuid>18199763-959b-40d2-bb62-c42257800724</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>f04e9f1d-70c6-4e39-8f37-95924e028f5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and @name = 'send' and @id = 'send2' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>30455459-e07a-4e1e-bd80-3c6ffd4ae846</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'btn-minicart-close' and @title = 'Close' and (text() = '
+        Close
+    ' or . = '
+        Close
+    ')]</value>
+      <webElementGuid>93d41ff1-1a98-44a8-a2dd-1da58d1f0199</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
