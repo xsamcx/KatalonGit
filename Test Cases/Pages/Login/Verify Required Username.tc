@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Required Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd458e65-5226-4764-b5af-f0942d7b007a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69ef39c2-c32e-4aab-b13f-69059326f6e4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69ef39c2-c32e-4aab-b13f-69059326f6e4</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

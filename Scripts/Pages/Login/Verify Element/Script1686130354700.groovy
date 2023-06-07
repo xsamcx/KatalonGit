@@ -17,29 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.verifyElementVisible(findTestObject('Page_Customer Login/button_Sign In'))
 
-WebUI.navigateToUrl('https://magento.softwaretestingboard.com/')
+WebUI.verifyElementVisible(findTestObject('Page_Customer Login/span_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Home Page/a_Sign In'))
+WebUI.verifyElementVisible(findTestObject('Page_Customer Login/input_Email_loginusername'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Customer Login/input_Email_loginusername'), 'firstlast@email.com')
-
-WebUI.setText(findTestObject('Object Repository/Page_Customer Login/input_Password_loginpassword'), 'Pass.123')
-
-WebUI.click(findTestObject('Object Repository/Page_Customer Login/button_Sign In'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home Page/a_My Cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home Page/a_My Cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home Page/img_Hot Sellers_product-image-photo'))
-
-WebUI.click(findTestObject('Object Repository/Page_Radiant Tee/div_M'))
-
-WebUI.click(findTestObject('Object Repository/Page_Radiant Tee/a_My Cart44items'))
-
-WebUI.click(findTestObject('Object Repository/Page_Radiant Tee/button_Proceed to Checkout'))
-
-WebUI.closeBrowser()
+WebUI.verifyElementVisible(findTestObject('Page_Customer Login/input_Password_loginpassword'))
 
