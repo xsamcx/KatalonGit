@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login-DataDrivenTest" time="71.091" tests="4" failures="0" errors="0">
+   <testsuite name="Login-DataDrivenTest" tests="4" failures="0" errors="0" time="71.091" skipped="0" timestamp="2023-06-07 20:29:11" hostname="SAMUEL - ROG-GL503GE" id="Test Suites/Login-DataDrivenTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\SAMUEL\\git\\KatalonGit\\Reports\\20230607_202907\\Login-DataDrivenTest\\20230607_202907"/>
+         <property name="logFiles" value="C:\\Users\\SAMUEL\\git\\KatalonGit\\Reports\\20230607_202907\\Login-DataDrivenTest\\20230607_202907\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="SAMUEL - ROG-GL503GE"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.9"/>
+         <property name="sessionId" value="6f3427833ac9102a7b45d4d7970c8090"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Old/Log In/SignIn" time="17.374" classname="Test Cases/Old/Log In/SignIn" status="PASSED">
+         <system-out><![CDATA[2023-06-07 20:29:17 - [TEST_CASE][PASSED] - Test Cases/Old/Log In/SignIn: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:17 - [TEST_STEP][PASSED] - Start listener action : beforeTestCase: Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:17 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:17 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:17 - [TEST_STEP][PASSED] - openBrowser(): null
+
+2023-06-07 20:29:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:29:17 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-07 20:29:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:29:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:29:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:29:20 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-07 20:29:20 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-07 20:29:20 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:20 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:29:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-07 20:29:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:29:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:29:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:29:23 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:29:25 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:29:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home Page/a_Sign In")): Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:29:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:29:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Email_loginusername"), "firstlast@email.com"): Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:29:30 - [MESSAGE][PASSED] - Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:29:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Password_loginpassword"), "Pass.123"): Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:29:31 - [MESSAGE][PASSED] - Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:29:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Customer Login/span_Sign In")): Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:29:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:29:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:29:34 - [MESSAGE][PASSED] - Browser is closed
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - Start listener action : afterTestCase: Browser is closed
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:34 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - closeBrowser(): null
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:29:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Old/Log In/SignIn" time="16.425" classname="Test Cases/Old/Log In/SignIn" status="PASSED">
+         <system-out><![CDATA[2023-06-07 20:29:34 - [TEST_CASE][PASSED] - Test Cases/Old/Log In/SignIn: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - Start listener action : beforeTestCase: Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:34 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - openBrowser(): null
+
+2023-06-07 20:29:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:29:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:29:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:29:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:29:36 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-07 20:29:36 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-07 20:29:36 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:37 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:29:37 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-07 20:29:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:29:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:29:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:29:40 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:29:41 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:29:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home Page/a_Sign In")): Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:29:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:29:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Email_loginusername"), "firstlast@email.com"): Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:29:46 - [MESSAGE][PASSED] - Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:29:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Password_loginpassword"), "Pass.123"): Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:29:47 - [MESSAGE][PASSED] - Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:29:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Customer Login/span_Sign In")): Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:29:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:29:50 - [MESSAGE][PASSED] - Browser is closed
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - Start listener action : afterTestCase: Browser is closed
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:50 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - closeBrowser(): null
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:29:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Old/Log In/SignIn" time="16.022" classname="Test Cases/Old/Log In/SignIn" status="PASSED">
+         <system-out><![CDATA[2023-06-07 20:29:50 - [TEST_CASE][PASSED] - Test Cases/Old/Log In/SignIn: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - Start listener action : beforeTestCase: Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:50 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - openBrowser(): null
+
+2023-06-07 20:29:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:29:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:29:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:29:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:29:53 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-07 20:29:53 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-07 20:29:53 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:53 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:29:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:29:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-07 20:29:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:29:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:29:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:29:56 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:29:58 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:29:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home Page/a_Sign In")): Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:30:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:30:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Email_loginusername"), "firstlast@email.com"): Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:30:02 - [MESSAGE][PASSED] - Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:30:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Password_loginpassword"), "Pass.123"): Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:30:03 - [MESSAGE][PASSED] - Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:30:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Customer Login/span_Sign In")): Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:30:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:30:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:30:06 - [MESSAGE][PASSED] - Browser is closed
+
+2023-06-07 20:30:06 - [TEST_STEP][PASSED] - Start listener action : afterTestCase: Browser is closed
+
+2023-06-07 20:30:06 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:30:06 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:30:06 - [TEST_STEP][PASSED] - closeBrowser(): null
+
+2023-06-07 20:30:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:30:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Old/Log In/SignIn" time="16.037" classname="Test Cases/Old/Log In/SignIn" status="PASSED">
+         <system-out><![CDATA[2023-06-07 20:30:06 - [TEST_CASE][PASSED] - Test Cases/Old/Log In/SignIn: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:30:06 - [TEST_STEP][PASSED] - Start listener action : beforeTestCase: Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:30:07 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:30:07 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:30:07 - [TEST_STEP][PASSED] - openBrowser(): null
+
+2023-06-07 20:30:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:30:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:30:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:30:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:30:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-07 20:30:09 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-07 20:30:09 - [TEST_STEP][PASSED] - navigateToUrl("https://www.saucedemo.com/"): Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:30:09 - [MESSAGE][PASSED] - Navigate to 'https://www.saucedemo.com/' successfully
+
+2023-06-07 20:30:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-07 20:30:09 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-07 20:30:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-07 20:30:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-07 20:30:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-07 20:30:12 - [TEST_STEP][PASSED] - navigateToUrl("https://magento.softwaretestingboard.com/"): Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:30:14 - [MESSAGE][PASSED] - Navigate to 'https://magento.softwaretestingboard.com/' successfully
+
+2023-06-07 20:30:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home Page/a_Sign In")): Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:30:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home Page/a_Sign In' is clicked on
+
+2023-06-07 20:30:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Email_loginusername"), "firstlast@email.com"): Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:30:18 - [MESSAGE][PASSED] - Text 'firstlast@email.com' is set on object 'Object Repository/Page_Customer Login/input_Email_loginusername'
+
+2023-06-07 20:30:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Customer Login/input_Password_loginpassword"), "Pass.123"): Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:30:19 - [MESSAGE][PASSED] - Text 'Pass.123' is set on object 'Object Repository/Page_Customer Login/input_Password_loginpassword'
+
+2023-06-07 20:30:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Customer Login/span_Sign In")): Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:30:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Customer Login/span_Sign In' is clicked on
+
+2023-06-07 20:30:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:30:23 - [MESSAGE][PASSED] - Browser is closed
+
+2023-06-07 20:30:23 - [TEST_STEP][PASSED] - Start listener action : afterTestCase: Browser is closed
+
+2023-06-07 20:30:23 - [TEST_STEP][PASSED] - logInfo("Test Case: " + testCaseContext.getTestCaseId()): Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:30:23 - [MESSAGE][INFO] - Test Case: Test Cases/Old/Log In/SignIn
+
+2023-06-07 20:30:23 - [TEST_STEP][PASSED] - closeBrowser(): null
+
+2023-06-07 20:30:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-07 20:30:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-07 20:29:11 - [TEST_SUITE][PASSED] - Login-DataDrivenTest: Test Cases/Old/Log In/SignIn]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

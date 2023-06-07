@@ -25,7 +25,7 @@ WebUI.callTestCase(findTestCase('Pages/Login/Verify Element'), [:], FailureHandl
 
 WebUI.callTestCase(findTestCase('Pages/Login/Input Username'), [('username') : ''], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Pages/Login/Input Password'), [('password') : 'Pass.123'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Pages/Login/Input Password'), [('password') : GlobalVariable.password], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Pages/Login/Click Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
