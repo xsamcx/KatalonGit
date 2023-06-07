@@ -27,7 +27,9 @@ WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account
 
 WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account/input_Last Name_lastname'), 'Sam')
 
-WebUI.setText(findTestObject('Object Repository/Page_Create New Customer Account/input_Email_email'), 'sam@gmail.com')
+String Email = CustomKeywords.'newPackage.RandomEmail.getEmail'('emailtest', 'email.com')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Create New Customer Account/input_Email_email'), Email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Create New Customer Account/input_Password_password'), 'p4y+y39Ir5MmxXEoT6JZcA==')
 

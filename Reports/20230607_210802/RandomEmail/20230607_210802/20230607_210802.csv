@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+RandomEmail,Chrome 114.0.0.0,,,2023-06-07 21:08:06,2023-06-07 21:08:35,29.223s,PASSED
+,,,,,,,
+Test Cases/Old/Register/CreateAccount-RandomEmail,Chrome 114.0.0.0,,,2023-06-07 21:08:13,2023-06-07 21:08:35,22.384s,PASSED
+Start listener action : beforeTestCase,Chrome 114.0.0.0,,,2023-06-07 21:08:13,2023-06-07 21:08:18,4.999s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-07 21:08:18,2023-06-07 21:08:21,2.973s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 114.0.0.0,,,2023-06-07 21:08:21,2023-06-07 21:08:23,2.032s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/a_Create an Account""))",Chrome 114.0.0.0,,,2023-06-07 21:08:23,2023-06-07 21:08:27,3.325s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input_First Name_firstname""), ""Sam"")",Chrome 114.0.0.0,,,2023-06-07 21:08:27,2023-06-07 21:08:28,1.108s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input_Last Name_lastname""), ""Sam"")",Chrome 114.0.0.0,,,2023-06-07 21:08:28,2023-06-07 21:08:29,0.794s,PASSED
+"Email = newPackage.RandomEmail.getEmail(""emailtest"", ""email.com"")",Chrome 114.0.0.0,,,2023-06-07 21:08:29,2023-06-07 21:08:29,0.027s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Create New Customer Account/input_Email_email""), Email)",Chrome 114.0.0.0,,,2023-06-07 21:08:29,2023-06-07 21:08:29,0.483s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create New Customer Account/input_Password_password""), ""p4y+y39Ir5MmxXEoT6JZcA=="")",Chrome 114.0.0.0,,,2023-06-07 21:08:29,2023-06-07 21:08:30,0.709s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create New Customer Account/input_Confirm Password_password_confirmation""), ""p4y+y39Ir5MmxXEoT6JZcA=="")",Chrome 114.0.0.0,,,2023-06-07 21:08:30,2023-06-07 21:08:30,0.623s,PASSED
+"click(findTestObject(""Object Repository/Page_Create New Customer Account/button_Create an Account""))",Chrome 114.0.0.0,,,2023-06-07 21:08:30,2023-06-07 21:08:35,4.137s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-07 21:08:35,2023-06-07 21:08:35,0.711s,PASSED
+Start listener action : afterTestCase,Chrome 114.0.0.0,,,2023-06-07 21:08:35,2023-06-07 21:08:35,0.009s,PASSED
