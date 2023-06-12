@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "0F104429B938B1910BC3CFAA725D0F9C",
+  "keywordFileContentHash": "8FCCA79829BCD57A9BFA6A79C4930677",
   "keywordClasses": [
     {
       "name": "newPackage.RandomEmail",
@@ -33,10 +33,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

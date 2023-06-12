@@ -21,9 +21,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class RandomEmail {
-		@Keyword
-		public String getEmail(String suffix,String prefix){
-		 int randomNo = (int)(Math.random() * 1000);
-		 return suffix + randomNo + "@" + prefix;
-		}
+	@Keyword
+	public String getEmail(String suffix,String prefix){
+		int randomNo = (int)(Math.random() * 1000);
+		return suffix + randomNo + "@" + prefix;
+	}
 }

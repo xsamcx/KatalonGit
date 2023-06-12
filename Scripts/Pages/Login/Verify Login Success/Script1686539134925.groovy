@@ -17,5 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Page_Home Page/span_Welcome, First Last'))
+WebUI.waitForElementPresent(findTestObject('Page_Home Page/Page_Home Page/button_Change'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Page_Home Page/Page_Home Page/button_Change'), 0)
 
