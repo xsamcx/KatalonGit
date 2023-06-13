@@ -1,0 +1,46 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login-DataDrivenTest,Chrome 114.0.0.0,,,2023-06-13 10:34:59,2023-06-13 10:36:16,1m - 16.584s,PASSED
+,,,,,,,
+Test Cases/Old/Log In/SignIn,Chrome 114.0.0.0,,,2023-06-13 10:35:07,2023-06-13 10:35:25,18.028s,PASSED
+Start listener action : beforeTestCase,Chrome 114.0.0.0,,,2023-06-13 10:35:07,2023-06-13 10:35:12,4.936s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 10:35:12,2023-06-13 10:35:15,2.879s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 114.0.0.0,,,2023-06-13 10:35:15,2023-06-13 10:35:16,1.659s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/a_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:35:16,2023-06-13 10:35:19,2.968s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Email_loginusername""), ""firstlast@email.com"")",Chrome 114.0.0.0,,,2023-06-13 10:35:19,2023-06-13 10:35:21,1.149s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Password_loginpassword""), ""Pass.123"")",Chrome 114.0.0.0,,,2023-06-13 10:35:21,2023-06-13 10:35:21,0.787s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:35:21,2023-06-13 10:35:24,2.608s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-13 10:35:24,2023-06-13 10:35:25,0.691s,PASSED
+Start listener action : afterTestCase,Chrome 114.0.0.0,,,2023-06-13 10:35:25,2023-06-13 10:35:25,0.008s,PASSED
+,,,,,,,
+Test Cases/Old/Log In/SignIn,Chrome 114.0.0.0,,,2023-06-13 10:35:25,2023-06-13 10:35:42,17.813s,PASSED
+Start listener action : beforeTestCase,Chrome 114.0.0.0,,,2023-06-13 10:35:25,2023-06-13 10:35:30,5.148s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 10:35:30,2023-06-13 10:35:33,2.803s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 114.0.0.0,,,2023-06-13 10:35:33,2023-06-13 10:35:34,1.721s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/a_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:35:34,2023-06-13 10:35:38,3.214s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Email_loginusername""), ""firstlast@email.com"")",Chrome 114.0.0.0,,,2023-06-13 10:35:38,2023-06-13 10:35:39,1.099s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Password_loginpassword""), ""Pass.123"")",Chrome 114.0.0.0,,,2023-06-13 10:35:39,2023-06-13 10:35:39,0.769s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:35:39,2023-06-13 10:35:42,2.373s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-13 10:35:42,2023-06-13 10:35:42,0.645s,PASSED
+Start listener action : afterTestCase,Chrome 114.0.0.0,,,2023-06-13 10:35:42,2023-06-13 10:35:42,0.006s,PASSED
+,,,,,,,
+Test Cases/Old/Log In/SignIn,Chrome 114.0.0.0,,,2023-06-13 10:35:42,2023-06-13 10:36:00,17.041s,PASSED
+Start listener action : beforeTestCase,Chrome 114.0.0.0,,,2023-06-13 10:35:42,2023-06-13 10:35:47,4.196s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 10:35:47,2023-06-13 10:35:50,2.923s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 114.0.0.0,,,2023-06-13 10:35:50,2023-06-13 10:35:51,1.815s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/a_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:35:51,2023-06-13 10:35:54,3.002s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Email_loginusername""), ""firstlast@email.com"")",Chrome 114.0.0.0,,,2023-06-13 10:35:54,2023-06-13 10:35:55,1.050s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Password_loginpassword""), ""Pass.123"")",Chrome 114.0.0.0,,,2023-06-13 10:35:55,2023-06-13 10:35:56,0.787s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:35:56,2023-06-13 10:35:59,2.551s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-13 10:35:59,2023-06-13 10:35:59,0.687s,PASSED
+Start listener action : afterTestCase,Chrome 114.0.0.0,,,2023-06-13 10:35:59,2023-06-13 10:36:00,0.005s,PASSED
+,,,,,,,
+Test Cases/Old/Log In/SignIn,Chrome 114.0.0.0,,,2023-06-13 10:36:00,2023-06-13 10:36:16,16.314s,PASSED
+Start listener action : beforeTestCase,Chrome 114.0.0.0,,,2023-06-13 10:36:00,2023-06-13 10:36:04,4.088s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 10:36:04,2023-06-13 10:36:07,2.915s,PASSED
+"navigateToUrl(""https://magento.softwaretestingboard.com/"")",Chrome 114.0.0.0,,,2023-06-13 10:36:07,2023-06-13 10:36:09,2.457s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/a_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:36:09,2023-06-13 10:36:11,1.829s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Email_loginusername""), ""firstlast@email.com"")",Chrome 114.0.0.0,,,2023-06-13 10:36:11,2023-06-13 10:36:12,1.389s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input_Password_loginpassword""), ""Pass.123"")",Chrome 114.0.0.0,,,2023-06-13 10:36:12,2023-06-13 10:36:13,0.754s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Sign In""))",Chrome 114.0.0.0,,,2023-06-13 10:36:13,2023-06-13 10:36:15,2.165s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-13 10:36:15,2023-06-13 10:36:16,0.690s,PASSED
+Start listener action : afterTestCase,Chrome 114.0.0.0,,,2023-06-13 10:36:16,2023-06-13 10:36:16,0.005s,PASSED
