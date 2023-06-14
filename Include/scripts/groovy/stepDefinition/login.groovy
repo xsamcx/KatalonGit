@@ -64,14 +64,14 @@ class login {
 	public void userInputPassword(String password) {
 		WebUI.callTestCase(findTestCase('Pages/Login/Input Password'), [('password') : password],FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@And("User click Sign in Button")
 	public void userClickSignInButton() {
 		WebUI.callTestCase(findTestCase('Pages/Login/Click Sign In from HomePage'), [:],FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@Then("User will be directed to Home Page")
 	public void userWillBeDirectedToHomePage() {
-	WebUI.callTestCase(findTestCase('Pages/Login/Verify Login Success'), [:],FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('Pages/Login/Verify Login Success'), [:],FailureHandling.STOP_ON_FAILURE)
 	}
 }
